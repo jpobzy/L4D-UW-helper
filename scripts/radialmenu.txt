@@ -1,0 +1,228 @@
+"RadialMenu"
+{
+	"underworld1,Survivor,Alive"
+	{
+		"Center"
+		{
+			"text"		"underworld"	
+		}
+		"North"
+		{
+			"command"	"say !l"
+			"text"		"!l"				
+		}
+		"NorthEast"
+		{
+			"command"	"say !s"
+			"text"		"!s"
+		}
+		"East"
+		{
+			"command"	"say !votemenu"
+			"text"		"!votemenu"
+		}
+		"SouthEast"
+		{
+			"command"	"say !slots11"
+			"text"		"!slots11"		
+		}
+		"South"
+		{
+			"command"	"say !csm"
+			"text"		"!csm"		
+		}
+		"SouthWest"
+		{
+			"command"	"say !autosniper"
+			"text"		"!autosniper"		
+		}
+		"West"
+		{
+			"command"	"!addons"
+			"text"		"!addons"		
+		}
+		"NorthWest"
+		{
+			"command"	"say !n"
+			"text"		"!n"					
+		}
+	}
+	
+	"underworld2,Survivor,Alive"
+	{
+		"Center"
+		{
+			"text"		"underworld"	
+		}
+		"North"
+		{
+		
+		}
+		"NorthEast"
+		{
+			"command"	"say !restart2"
+			"text"		"!restart2"	
+		}
+		"East"
+		{
+			"command"	"say !slots11"
+			"text"		"!slots11"		
+		}
+		"SouthEast"
+		{
+			"command"	"say !slots6"
+			"text"		"!slots6"			
+		}
+		"South"
+		{
+			"command"	"say !slots8"
+			"text"		"!slots8"		
+		}
+		"SouthWest"
+		{
+			"command"	"say !slots9"
+			"text"		"!slots9"		
+		}
+		"West"
+		{
+			"command"	"say !slots10"
+			"text"		"!slots10"		
+		}
+		"NorthWest"
+		{
+			"command"	"say !restart1"
+			"text"		"!restart1"					
+		}
+	}		
+
+
+	//--------------------------------------------------------------
+	"Orders,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize smartlook"
+			"text"		"#L4D_rosetta_look"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerMoveOn"
+			"text"		"#L4D_rosetta_letsgo"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerLeadOn"
+			"text"		"#L4D_rosetta_youtakelead"
+		}	
+		"East"
+		{
+			"command"	"vocalize PlayerHurryUp"
+			"text"		"#L4D_rosetta_hurry"
+		}	
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerNiceJob"
+			"text"		"#L4D_rosetta_nicejob"
+		}	
+		"South"
+		{
+			"command"	"vocalize PlayerWaitHere"
+			"text"		"#L4D_rosetta_waithere"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerAreaClear"
+			"text"		"#L4D_rosetta_clear"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerCoverMe"
+			"text"		"#L4D_rosetta_coverme"
+		}	
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerImWithYou"
+			"text"		"#L4D_rosetta_withyou"
+		}	
+	}
+	//--------------------------------------------------------------
+	"QA,Survivor,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerAskReady"
+			"text"		"#L4D_rosetta_ready"
+		}
+		"North"
+		{
+			"command"	"vocalize PlayerLaugh"
+			"text"		"#L4D_rosetta_laugh"
+		}
+		"NorthEast"
+		{
+			"command"	"vocalize PlayerWarnCareful"
+			"text"		"#L4D_rosetta_becareful"
+		}
+		"East"
+		{
+			"command"	"vocalize PlayerNegative"
+			"text"		"#L4D_rosetta_negative"
+		}
+		"SouthEast"
+		{
+			"command"	"vocalize PlayerNo"
+			"text"		"#L4D_rosetta_no"
+		}
+		"South"
+		{
+			"command"	"vocalize PlayerSorry"
+			"text"		"#L4D_rosetta_sorry"
+		}
+		"SouthWest"
+		{
+			"command"	"vocalize PlayerYes"
+			"text"		"#L4D_rosetta_yes"
+		}
+		"West"
+		{
+			"command"	"vocalize PlayerHurrah"
+			"text"		"#L4D_rosetta_hurrah"
+		}
+		"NorthWest"
+		{
+			"command"	"vocalize PlayerThanks"
+			"text"		"#L4D_rosetta_thankyou"
+		}
+	}
+	
+	//--------------------------------------------------------------
+	"Orders,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"label"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"QA,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"text"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+	//--------------------------------------------------------------
+	"Alerts,Zombie,Alive"
+	{
+		"Center"
+		{
+			"command"	"vocalize PlayerZombieTaunt"
+			"text"		"#L4D_rosetta_grrrr"
+		}
+	}
+
+}
