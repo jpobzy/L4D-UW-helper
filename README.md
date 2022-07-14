@@ -6,7 +6,6 @@
 
 
 ## VPK Instructions 
-This option is the easiest and safest method to intall the autoconfig while ensuring that your previous keybinds do not get lost
    - First download the .VPK file  
    - Once the file is downloaded open to  `.../steamapps/common/Left 4 Dead/left4dead/addons`
    - Drag the VPK file to the addons folder
