@@ -1,0 +1,24 @@
+//  ——————————————————————————————————————————————————————————————————————————————————————————
+
+//  Filename: addoninfo.txt
+//  Version: 1.0
+//  Author: https://github.com/jpobzy
+//  Source: https://github.com/jpobzy/L4D-UW-helper
+//  License: MIT License
+//  Contact information: https://steamcommunity.com/profiles/76561198855075791/
+  
+//  —————————————————————————————————————————————————————————————————————————————————————————— 
+
+ "AddonInfo"
+{
+	 addonSteamAppID         500                                                     // 500 is the app ID for Left 4 Dead, 550 for Left 4 Dead 2
+	 addontitle              "autoconfig"                            // Add-on title that shows up in Add-ons list. ~20 chars max
+	 addonversion			 "1.0"  												//Add-on version
+	 addontagline 			 "cfg" 							// Add-on tagline or wrap-up- a short description. ~100 chars max
+	 addonURL0               "https://github.com/jpobzy/L4D-UW-helper" //An html home page for the add-on that includes a download link.
+	 addonauthorSteamID      "https://steamcommunity.com/profiles/76561198855075791/"
+	 addonauthor             "Jpobzy"    
+	 
+	 // short description that appears in the Add-on list screen...
+     addonDescription        "Jpobzy's custom config"
+}
