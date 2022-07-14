@@ -6,7 +6,8 @@
 
 
 ## VPK Instructions 
-   - First download the .VPK file  
-   - Once the file is downloaded open to  `.../steamapps/common/Left 4 Dead/left4dead/addons`
-   - Drag the VPK file to the addons folder
+   1. First download the .VPK file by clicking on the `l4d-uw-helper.vpk` file
+   2. Then click on `View raw` to download the file
+   3. Once the file is downloaded open to  `.../steamapps/common/Left 4 Dead/left4dead/addons`
+   4. Drag the VPK file to the addons folder
 
