@@ -38,7 +38,7 @@
 		}
 		"West"
 		{
-			"command"	"!addons"
+			"command"	"say !addons"
 			"text"		"!addons"		
 		}
 		"NorthWest"
@@ -56,7 +56,8 @@
 		}
 		"North"
 		{
-		
+			"command"	""
+			"text"		"cancel"	
 		}
 		"NorthEast"
 		{
